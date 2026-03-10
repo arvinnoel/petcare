@@ -129,7 +129,7 @@ body{
 <nav class="vertical-navbar">
     <ul>
 
-        <h3 style="text-align:center;margin:15px 0;color:#008080;">ADMIN PANEL</h3>
+        <h3 style="text-align:center;margin:15px 0;color:#008080;">ADMIN DASHBORD</h3>
 
         <li>
             <a href="users.php">Users</a>
